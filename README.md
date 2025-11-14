@@ -2,10 +2,6 @@
 
 This project is part of my **Full Stack Web Development Internship at BucketStudy**.  
 The task was to create a **modern, fully responsive landing page** using **HTML, CSS, and JavaScript**.
-# 🌐 Responsive Landing Page – BucketStudy Internship Task
-
-This project is part of my **Full Stack Web Development Internship at BucketStudy**.  
-The task was to create a **modern, fully responsive landing page** using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Features
 
